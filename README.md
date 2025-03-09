@@ -69,7 +69,7 @@ It consits of expression for a path along with certain conditions to locate a pa
 
 - The basic format of Xpath is mentioned below:
 
-![Xpath_Syntax](Images\Xpath_Syntax.png)
+![Xpath_Syntax](https://github.com/user-attachments/assets/3c453fdc-4cbc-44a2-ab36-5a2b0a942d3c)
 
 ## **Types of XPaths**
 
